@@ -1,3 +1,3 @@
 GPA Calculator 🎓
-GPA Calculator (C++) is a program created to help students calculate their Grade Point Average based on grades received in various courses and the credit hours of each course. This program, written in C++, uses the windows.h library to display colored text and a simple tabular interface.
-Object-oriented programming, handling user input, and calculating GPA are all demonstrated in this program.
+
+GPA Calculator (C++) is a program created to help students calculate their Grade Point Average 📊 based on the grades received in different courses and the credit hours of each course. The program is written in C++ 💻 and uses the windows.h 🪟 library to display colored text and a simple table interface. It demonstrates Object-Oriented Programming 🧠, user input handling ⌨️, and GPA calculations 🧮.
